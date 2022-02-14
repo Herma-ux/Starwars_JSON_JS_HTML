@@ -5,3 +5,6 @@ The repository contains a combination of .js, .cs files that will generate a fil
 Starwars characters.
 
 The JSON file contains the formating to link , pdf files, images and external urls.
+
+The images  and the pdf used in the application were uploaded in a difference branch.
+
